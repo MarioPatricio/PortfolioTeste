@@ -1,0 +1,97 @@
+.cabecalho {
+    background-color: red;
+    margin-bottom: 25px;
+    padding: 15px;
+}
+
+.titulo {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: cadetblue;
+}
+
+.sub-titulo {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 
+    'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: bisque;
+}
+
+.video-container {
+    max-height: 300px;
+    overflow: hidden;
+    position: relative;
+}
+
+.video-player {
+    width: 100%;
+    margin-top: -400px;
+}
+
+.video-source{
+    height: auto;
+    width: 100%; 
+}
+
+.conteudo {
+    background-color: chartreuse;
+    display: flex;
+    gap: 10px 20px;
+    justify-content: center;
+    height: 400px;
+}
+
+.botao {
+    background-color: aquamarine;
+    border: 2px transparent;
+    height: 150px;
+    width: 150px;
+    margin-top: 100px;
+}
+
+a{
+    display: block;
+    width: 150px;
+    height: 150px;
+    line-height: 150px;
+    font-size: 18px;
+    font-family: sans-serif;
+    text-decoration: none;
+    color: #333;
+    border: 2px solid #333;
+    letter-spacing: 2px;
+    text-align: center;
+    position: relative;
+    transition: all .35s;
+}
+
+a span{
+    position: relative;
+    z-index: 2;
+}
+
+a:after{
+    position: absolute;
+    content: "";
+    top: 0;
+    left: 0;
+    width: 0;
+    height: 100%;
+    background: #ff003b;
+    transition: all .35s;
+}
+
+a:hover{
+    color: #fff;
+}
+  
+a:hover:after{
+    width: 100%;
+}
+
+.rodape {
+    background-color: green;
+}
+
+body {
+    margin: 0px;
+}
