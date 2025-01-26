@@ -1,19 +1,49 @@
+body {
+    margin: 0px;
+    /*display: flex;
+    flex-direction: column;*/
+    transition: .5s;
+    background-color: #171515;
+}
+
 .cabecalho {
-    background-color: red;
-    margin-bottom: 25px;
+    background-color: #171515;
+    /*margin-bottom: 25px;*/
     padding: 15px;
+    transition: .5s;
 }
 
 .titulo {
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
-    color: cadetblue;
+    color: white;
 }
 
 .sub-titulo {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 
     'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: bisque;
+    color: white;
+}
+
+.trilho {
+    width: 80px;
+    height: 40px;
+    left: 90%;
+    background-color: #4d4d4d;
+    border-radius: 150px;
+    position: relative;
+    cursor: pointer;
+}
+
+.trilho .interruptor {
+    width: 40px;
+    height: 40px;
+    background-color: #000;
+    border-radius: 50%;
+    transform: scale(.9);
+    position: absolute;
+    left: 0;
+    transition: .5s;
 }
 
 .video-container {
@@ -33,7 +63,7 @@
 }
 
 .conteudo {
-    background-color: chartreuse;
+    /*background-color: chartreuse;*/
     display: flex;
     gap: 10px 20px;
     justify-content: center;
@@ -41,11 +71,12 @@
 }
 
 .botao {
-    background-color: aquamarine;
+    /*background-color: aquamarine;*/
     border: 2px transparent;
     height: 150px;
     width: 150px;
     margin-top: 100px;
+    transition: .5s;
 }
 
 a{
@@ -56,8 +87,8 @@ a{
     font-size: 18px;
     font-family: sans-serif;
     text-decoration: none;
-    color: #333;
-    border: 2px solid #333;
+    color: #fff;
+    border: 2px solid #fff;
     letter-spacing: 2px;
     text-align: center;
     position: relative;
@@ -89,9 +120,39 @@ a:hover:after{
 }
 
 .rodape {
-    background-color: green;
+    background-color: purple;
 }
 
-body {
-    margin: 0px;
+.trilho.dark {
+    background-color: #c3c3c3;
+}
+
+.trilho.dark .interruptor{
+    left: 40px;
+    background-color: #fff;
+}
+
+body.dark {
+    background-color: #e4e4e4;
+}
+
+header.dark {
+    background-color: #e4e4e4;
+}
+
+header.dark .titulo {
+    color: #000;
+}
+
+header.dark .sub-titulo {
+    color: #000;
+}
+
+.conteudo.dark {
+    background-color: #e4e4e4;
+}
+
+.conteudo.dark a {
+    color: #333;
+    border-color: #333;
 }
