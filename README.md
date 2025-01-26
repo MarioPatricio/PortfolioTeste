@@ -1,6 +1,6 @@
 # PortfolioTeste
 
-Projeto com o objetivo de treinar HTML, CSS e JavaScript na construção de um protótipo de portfólio no intuito de praticar conhecimentos de Front-End, como tags, interatividade e responsividade. Projeto proposto pelo professor João Ferreira no curso Full-Stack da Treina Recife.
+Projeto que consiste na construção de um protótipo de portfólio no intuito de praticar conhecimentos como tags, interatividade e responsividade em HTML, CSS e JavaScript. Projeto proposto pelo professor João Ferreira no curso Full-Stack da Treina Recife.
 
 ### 📋 Pré-requisitos
 
