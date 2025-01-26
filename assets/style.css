@@ -1,14 +1,11 @@
 body {
     margin: 0px;
-    /*display: flex;
-    flex-direction: column;*/
     transition: .5s;
     background-color: #171515;
 }
 
 .cabecalho {
     background-color: #171515;
-    /*margin-bottom: 25px;*/
     padding: 15px;
     transition: .5s;
 }
@@ -63,7 +60,6 @@ body {
 }
 
 .conteudo {
-    /*background-color: chartreuse;*/
     display: flex;
     gap: 10px 20px;
     justify-content: center;
@@ -71,7 +67,6 @@ body {
 }
 
 .botao {
-    /*background-color: aquamarine;*/
     border: 2px transparent;
     height: 150px;
     width: 150px;
