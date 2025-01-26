@@ -8,9 +8,9 @@ Foi utilizado o editor de código fonte Visual Studio Code. Para desenvolver est
 
 ## 🛠️ Construído com
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+![Javascript](https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript)
           
 ## ✒️ Autores
 
