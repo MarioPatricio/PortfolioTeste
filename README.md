@@ -20,9 +20,9 @@ Ademais:
 
 ## 🛠️ Construído com
 
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
-![Javascript](https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript)
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SPRINGBOOT](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![REACT](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
           
 ## ✒️ Autores
 
