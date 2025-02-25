@@ -1,28 +1,19 @@
 # PortfolioTeste
 
-Projeto que consiste na construção de uma aplicação de edição e exibição de currículos, através da construção de uma RestAPI em Java/SpringBoot integrada com FrontEnd em REACT-BootStrap, permitindo cadastro de novos currículos, posteriormente armazenados em um banco de dados relacional e tratados pelo BackEnd.
+Projeto que consiste na construção de um protótipo de portfólio no intuito de praticar conhecimentos como tags, interatividade e responsividade em HTML, CSS e JavaScript. Projeto proposto pelo professor João Ferreira no curso Full-Stack da Treina Recife.
 
 ## 📋 Pré-requisitos
 
-Para o BackEnd, necessário conhecimentos de lógica de programação, POO, JAVA API, Sring Data JPA e Bancos de Dados Relacionais (MySQL, Postgres...). Já para o FrontEnd, HTML5, CSS3, JavaScript, TypeScript, REACT e BootStrap.
+Foi utilizado o editor de código fonte Visual Studio Code. Para desenvolver este projeto, também são necessários conhecimentos de tags e como interagem entre si (fundamentos de HTML), noções de interatividade em CSS3 e Arrow Functions em JavaScript.
 
 Foram utilizadas as IDEs, com devidas extensões:
-- Eclipse 2024-09 para SpringBoot/Java; (este item sendo de gosto particular, podendo usar qualquer IDE Java ou até mesmo VSCode)
-- VSCode para React/BootStrap.
-
-Como também são recomendados demais programas:
-- Postman, para teste de métodos GET, PUT, etc...
-- MySQL Workbench, para modelagem, definição e teste do banco de dados. (sendo de escolha do desenvolvdor, podendo também ser usado qualquer outro banco relacional)
-
-Ademais:
-- JDK 23.0.1
-- Node.js v22.13.1
+- VSCode.
 
 ## 🛠️ Construído com
 
-![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SPRINGBOOT](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![REACT](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+![Javascript](https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript)
           
 ## ✒️ Autores
 
