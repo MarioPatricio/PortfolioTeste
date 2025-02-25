@@ -22,4 +22,4 @@ Foram utilizadas as IDEs, com devidas extensões:
 
 ## 📄 Licença
 
-Este projeto está sob a licença Creative Commons Zero v1.0 Universal - veja o arquivo [LICENSE.md](https://github.com/MarioPatricio/projetoTreina/blob/main/LICENSE) para detalhes.
+Este projeto está sob a licença Creative Commons Zero v1.0 Universal - veja o arquivo [LICENSE.md](https://github.com/MarioPatricio/PortfolioTeste/blob/main/README.md) para detalhes.
